@@ -1386,7 +1386,7 @@ header{
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #cc005f;
+	border-color: #008bcc;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1418,7 +1418,7 @@ header{
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #cc005f;
+	color: #0070cc;
 }
 
 /**
@@ -2045,7 +2045,7 @@ header{
 	color: #313131;
 }
 .section-ads span {
-	color: #3F0D39;
+	color: #0d163f;
 }
 
 
@@ -2339,7 +2339,7 @@ header{
 	width: 100%;
 }
 #message-warning {
-	color: #fa0003;
+	color: #5700fa;
 }
 #message-success {
 	color: #4000f0;
